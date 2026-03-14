@@ -2,6 +2,8 @@
 
 This example shows how to scrape Viator tour listings in Node.js using the [Viator Scraper](https://apify.com/piotrv1001/viator-scraper) actor on Apify — no browser automation or custom scraping code required.
 
+![Viator Scraper results](viator_results.png)
+
 ## What this example does
 
 - Passes a Viator search URL as input to the actor
