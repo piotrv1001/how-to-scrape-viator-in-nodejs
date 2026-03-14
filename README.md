@@ -108,6 +108,10 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each result
 
 **[Open the Viator Scraper on Apify](https://apify.com/piotrv1001/viator-scraper)**
 
+## Related resources
+
+- [How to Scrape Viator Tour and Activity Listings](https://www.falconscrape.com/blog/how-to-scrape-viator-tour-and-activity-listings) — in-depth blog post covering the scraper in detail
+
 ## License
 
 MIT
