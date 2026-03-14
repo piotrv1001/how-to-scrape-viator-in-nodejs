@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Martha's Vineyard Daytrip from Boston with Round-Trip Ferry & Island Tour Option",
+    "url": "https://www.viator.com/tours/Boston/Day-Trip-to-Marthas-Vineyard/d678-5491MARTHA",
+    "image": "https://dynamic-media.tacdn.com/media/photo-o/2e/f3/83/c2/caption.jpg?w=800&h=600&s=1",
+    "startDate": "2025-01-01",
+    "locationName": "Boston, Massachusetts",
+    "addressLocality": "Boston",
+    "addressCountryName": "USA",
+    "offerPrice": "119",
+    "offerCurrency": "USD",
+    "ratingValue": 4.5,
+    "bestRating": 5,
+    "worstRating": 1,
+    "reviewCount": 2709
+  },
+  {
+    "name": "Boston Duck Tour",
+    "url": "https://www.viator.com/tours/Boston/Boston-Duck-Tour/d678-3791DUCK",
+    "image": "https://dynamic-media.tacdn.com/media/photo-o/1a/b2/44/d3/caption.jpg?w=800&h=600&s=1",
+    "startDate": "2025-01-01",
+    "locationName": "Boston, Massachusetts",
+    "addressLocality": "Boston",
+    "addressCountryName": "USA",
+    "offerPrice": "47",
+    "offerCurrency": "USD",
+    "ratingValue": 4.7,
+    "bestRating": 5,
+    "worstRating": 1,
+    "reviewCount": 5832
+  },
+  {
+    "name": "Beantown Trolley & Harbor Cruise - Best of Boston",
+    "url": "https://www.viator.com/tours/Boston/Beantown-Trolley-and-Harbor-Cruise/d678-2855BEANTOWN",
+    "image": "https://dynamic-media.tacdn.com/media/photo-o/1c/d5/72/aa/caption.jpg?w=800&h=600&s=1",
+    "startDate": "2025-01-01",
+    "locationName": "Boston, Massachusetts",
+    "addressLocality": "Boston",
+    "addressCountryName": "USA",
+    "offerPrice": "64",
+    "offerCurrency": "USD",
+    "ratingValue": 4.3,
+    "bestRating": 5,
+    "worstRating": 1,
+    "reviewCount": 1204
+  }
+]
