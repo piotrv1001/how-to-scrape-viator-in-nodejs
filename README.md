@@ -111,6 +111,7 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each result
 ## Related resources
 
 - [How to Scrape Viator Tour and Activity Listings](https://www.falconscrape.com/blog/how-to-scrape-viator-tour-and-activity-listings) — in-depth blog post covering the scraper in detail
+- [How to Scrape Viator Tour Listings with Apify](https://www.youtube.com/watch?v=adm4JXkSSE4) — video tutorial on scraping Viator using Apify
 
 ## License
 
